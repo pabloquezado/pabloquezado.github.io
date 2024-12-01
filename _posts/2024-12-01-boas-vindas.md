@@ -1,6 +1,7 @@
 ---
 title: Boas vindas!
-author: Pablo Quezado
+image: /assets/banner.jpeg
+author: <author_id> 
 date: 2024-12-01 14:43:00 -0300
 categories: [Educação, Blogging]
 tags: [blog]
