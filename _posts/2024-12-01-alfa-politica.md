@@ -1,7 +1,7 @@
 ---
-title: Aspectos linguísticos e dilemas políticos da Alfabetização no Brasil
+title: Políticas de Alfabetização no Brasil
 image: /assets/braziu.jpg
-author: <author_id> 
+author: pablo
 date: 2024-12-01 17:05:00 -0300
 categories: [Educação, Blogging]
 tags: [alfabetização, políticas educacionais, blog]
